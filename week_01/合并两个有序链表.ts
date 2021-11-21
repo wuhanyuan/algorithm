@@ -28,3 +28,9 @@ function mergeTwoLists(l1: ListNode | null, l2: ListNode | null): ListNode | nul
   head.next = l1 ? l1 : l2;
   return protect.next;
 };
+
+
+
+
+
+

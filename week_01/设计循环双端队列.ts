@@ -83,3 +83,10 @@ class MyCircularDeque {
  * var param_7 = obj.isEmpty()
  * var param_8 = obj.isFull()
  */
+
+
+
+
+
+
+
