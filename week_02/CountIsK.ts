@@ -1,3 +1,5 @@
+// 和为 K 的子数组
+
 function subarraySum(nums: number[], k: number): number {
 
     const size = nums.length;
